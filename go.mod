@@ -1,6 +1,6 @@
 module xk6-cpf
 
-go 1.22.1
+go 1.19
 
 require (
 	github.com/mvrilo/go-cpf v0.0.0-20150109121854-4113d38c8d21
