@@ -1,4 +1,4 @@
-module https://github.com/marlo2222/xk6-cpf
+module github.com/marlo2222/xk6-cpf
 
 go 1.19
 
