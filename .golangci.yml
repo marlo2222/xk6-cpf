@@ -30,6 +30,9 @@ issues:
     - linters:
         - forbidigo
       text: 'use of `os\.(SyscallError|Signal|Interrupt)` forbidden'
+     - linters:
+        - typecheck
+      text: 'undefined: cpf'
 
 linters-settings:
   nolintlint:
