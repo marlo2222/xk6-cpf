@@ -10,4 +10,5 @@ export const options = {
 export default function () {
   console.log(`Gerando um novo CPF: ${gerador.cpf(false)}`);
   sleep(0.5);
+  
 }
